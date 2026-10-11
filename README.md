@@ -1,6 +1,9 @@
 # DERP Code Collection
 
-This directory contains code collected from the existing implementations for the paper *Directed extended-range percolation*.
+This directory contains code collected from the existing implementations for the paper Directed extended-range percolation (DERP) by Liu, W., Zeng, Y., Liu, X. and Bianconi, G., Physical Review E (2026)
+If you use the included codes please cite
+[1] Liu, W., Zeng, Y., Liu, X. and Bianconi, G., 2026. Directed extended-range percolation. Physical Review E (2026) arXiv preprint arXiv:2605.22646.
+[2] Cirigliano, Lorenzo, Claudio Castellano, and Ginestra Bianconi. "General theory for extended-range percolation on simple and multiplex networks." Physical Review E 110, no. 3 (2024): 034302.
 
 ## Naming Conventions and File Descriptions
 
